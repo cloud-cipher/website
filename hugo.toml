@@ -1,3 +1,7 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://cloud-cipher.co.uk'
+languageCode = 'en-gb'
+title = 'Cloud Cipher Ltd'
+disableKinds = ['taxonomy', 'term']
+disableHugoGeneratorInject = true
+[markup.goldmark.renderer]
+unsafe = true
