@@ -1,6 +1,6 @@
-baseURL = 'https://cloud-cipher.co.uk'
+baseURL = 'https://fortiguardltd.com'
 languageCode = 'en-gb'
-title = 'Cloud Cipher Ltd'
+title = 'FortiGuard Limited'
 disableKinds = ['taxonomy', 'term']
 disableHugoGeneratorInject = true
 [markup.goldmark.renderer]

@@ -1,12 +1,12 @@
 ---
-title: Cloud Cipher Ltd
+title: FortiGuard Ltd
 ---
 
-# Cloud Cipher Ltd
+# FortiGuard Ltd
 
 ## About Us
 
-At Cloud Cipher we are your trusted partner in the ever-evolving landscape of cybersecurity. With a singular focus on Fortinet solutions, we bring unmatched expertise and dedication to safeguarding your digital world.
+At FortiGuard we are your trusted partner in the ever-evolving landscape of cybersecurity. With a singular focus on Fortinet solutions, we bring unmatched expertise and dedication to safeguarding your digital world.
 
 ## Our Mission
 
@@ -30,15 +30,15 @@ We're not just here to sell you a product; we're here to build lasting partnersh
 
 ## Trust and Reliability
 
-Cybersecurity is all about trust, and we take that seriously. When you choose Cloud Cipher you're choosing a partner who prioritises transparency, integrity, and reliability.
+Cybersecurity is all about trust, and we take that seriously. When you choose FortiGuard you're choosing a partner who prioritises transparency, integrity, and reliability.
 
 ## Your Security, Our Priority
 
-Your data, your network, your business – we take it personally. At Cloud Cipher we are committed to securing your digital assets, ensuring your peace of mind, and empowering you to thrive in a digital world fraught with threats.
+Your data, your network, your business – we take it personally. At FortiGuard we are committed to securing your digital assets, ensuring your peace of mind, and empowering you to thrive in a digital world fraught with threats.
 
 Partner with us, and let's fortify your future together.
 
-**Email: <info@cloud-cipher.co.uk>**
+**Email: <info@fortiguardltd.com>**
 
 ---
 
